@@ -23,8 +23,8 @@ import java.util.List;
 public class CompileCodeService {
 	
 
-private	String clientId = "ece09a8ff27b695397c557a369d24812"; // Replace with your client ID
-private    String clientSecret = "fa6b9c36754ec78ea7009f63ec06b120ea8931135369738cdfaf8195a0ade98e";
+private	String clientId = "###############"; // Replace with your client ID
+private    String clientSecret = "###########"; //Replace with your clientSecret
 
 private String executeCodeAPIURL = "https://api.jdoodle.com/v1/execute";
 
